@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Jithin Krishna J
 - 👀 I’m learning and growing to become a good data driven based analyst
-- 💞️ I’m looking to collaborate on data analysis roles
+- 💞️ I’m looking to collaborate on data analyst roles
 - 📫 How to reach me jithinkrishnaj3@gmail.com
 - 💼 Portfolio Page - 
 - 🧩 Tools : SQL|PowerBI|Microsoft Excel 
